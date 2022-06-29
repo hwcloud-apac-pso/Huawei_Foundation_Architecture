@@ -1,1 +1,1 @@
-# Huawei_Foundation_Architecture
+# Huawei Foundation Architecture
